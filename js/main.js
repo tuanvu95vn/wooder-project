@@ -14,7 +14,7 @@ var flktySlider = new Flickity(fliSliderElem, {
     // options
     cellAlign: 'left',
     contain: true,
-    draggable: false,
+    draggable: true,
     prevNextButtons: false,
     pageDots: false
     //   freeScroll: true,
